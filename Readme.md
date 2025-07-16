@@ -79,4 +79,4 @@ journalctl -u jiankong-dingtalk --no-pager -e
 ```
 
 ## 效果图
-待更新
+![66a31723aa9be92737707015b54644e2.jpeg](https://i.mji.rip/2025/07/16/66a31723aa9be92737707015b54644e2.jpeg)
